@@ -1,2 +1,2 @@
 # BDStaticSite
-Boot.dev Static Site lesson
+Boot.dev Static Site course
